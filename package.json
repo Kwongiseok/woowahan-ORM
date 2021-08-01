@@ -1,10 +1,10 @@
 {
-  "name": "woowahan-orm",
+  "name": "@Kwongiseok/woowahan-orm",
   "version": "2.0.0",
   "description": "A very light promise-based Node.js ORM for MySQL",
   "main": "src/index.js",
-  "repository": "https://github.com/zoomkoding/woowahan-orm",
-  "homepage": "https://github.com/zoomkoding/woowahan-orm",
+  "repository": "https://github.com/Kwongiseok/woowahan-orm",
+  "homepage": "https://github.com/Kwongiseok/woowahan-orm",
   "author": {
     "name": "zoomkoding",
     "email": "zoomkoding@gmail.com",
